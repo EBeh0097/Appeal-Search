@@ -1,6 +1,6 @@
 # Medicare Appeals Streamlit App
 
-This app wraps your Medicare Appeals scraper in a public Streamlit interface.
+Medicare Appeals scraper app in a public Streamlit interface.
 
 ## What it does
 - Accepts human input for:
@@ -12,5 +12,5 @@ This app wraps your Medicare Appeals scraper in a public Streamlit interface.
 - Collects all visible result pages
 - Loads the results into a dataframe
 - Calculates the two analysis metrics from your notebook
-- Uses OpenAI for an optional plain-English summary when `OPENAI_API_KEY` is present in Streamlit secrets
+
 
